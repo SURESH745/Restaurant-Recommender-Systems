@@ -29,7 +29,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ### Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GongaliSuresh/restaurant-recommender.git
+   git clone https://github.com/SURESH745/restaurant-recommender.git
    cd restaurant-recommender
    ```
 2. Open the Jupyter Notebook:
@@ -55,6 +55,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For any inquiries or contributions, feel free to contact:
 - **Name:** Gongali Suresh
-- **Email:** [gongalisuresh@example.com](mailto:gongalisuresh@example.com)
-- **GitHub:** [github.com/GongaliSuresh](https://github.com/GongaliSuresh)
-- **LinkedIn:** [linkedin.com/in/gongali-suresh](https://linkedin.com/in/gongali-suresh)
+- **Email:** [ssuresh8337@gmail.com](mailto:ssuresh8337@gmail.com)
+- **GitHub:** [github.com/SURESH745](https://github.com/SURESH745)
+- **LinkedIn:** [linkedin.com/in/gongalisuresh](https://linkedin.com/in/gongalisuresh)
+- **Portfolio:** [sureshgongali.netlify.app](https://sureshgongali.netlify.app)
+- **Phone:** +91 7671903261
+- **Location:** 6-11 Rathana Kotturu, Andhra Pradesh – 5183380
